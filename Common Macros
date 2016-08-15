@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+#define ll long long
+#define mod 1000000007
+#define upperlimit 1000100
+#define INF 1000000100
+#define INFL 1000000000000000100
+#define eps 1e-8
+#define endl '\n'
+#define sd(n) scanf("%d",&n)
+#define slld(n) scanf("%lld",&n)
+#define pd(n) printf("%d",n)
+#define plld(n) printf("%lld",n)
+#define pds(n) printf("%d ",n)
+#define pllds(n) printf("%lld ",n)
+#define pdn(n) printf("%d\n",n)
+#define plldn(n) printf("%lld\n",n)
+#define REP(i,a,b) for(i=a;i<=b;i++)
+#define mp make_pair
+#define pb push_back
+#define pcc pair<char,char>
+#define pii pair<int,int>
+#define pll pair<ll,ll>
+#define vi vector<int>
+#define vl vector<ll>
+#define tr(container,it) for(typeof(container.begin()) it=container.begin();it!=container.end();it++)
+#define F first
+#define S second
