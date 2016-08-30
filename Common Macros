@@ -25,3 +25,17 @@
 #define tr(container,it) for(typeof(container.begin()) it=container.begin();it!=container.end();it++)
 #define F first
 #define S second
+
+#define rep(i,n) for(i=0;i<n;i++)
+#define ll long long
+#define elif else if
+#define pii pair<int,int>
+#define mp make_pair
+#define pb push_back
+#define CLEAR(array, value) memset(ptr, value, sizeof(array));
+#define si(a)     scanf("%d", &a)
+#define sl(a)     scanf("%lld", &a)
+#define pi(a)     printf("%d", a)
+#define pl(a)     printf("%lld", a)
+#define pn        printf("\n")
+#define SZ(x)  (int)((x).size())
